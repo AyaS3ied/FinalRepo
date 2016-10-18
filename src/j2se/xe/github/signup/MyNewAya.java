@@ -12,6 +12,7 @@ package j2se.xe.github.signup;
 
 public class MyNewAya {
     public static void main(String[] args) {
+        System.out.println("Yahia Editing 0");    
         System.out.println("Yahia Editing 1");    
         
         System.out.println("ayaaa");
